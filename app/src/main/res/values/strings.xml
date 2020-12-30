@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="welcome_screen">Welcome To Gaming World!</string>
+    <string name="welcome_to_gaming_world">Welcome To Gaming World!</string>
+    <string name="my_front_view">My front view</string>
+    <string name="image_view1">image_view1</string>
+    <string name="image_view11">image_view11</string>
+    <string name="image_view12">image_view12</string>
+    <string name="image_view13">image_view13</string>
+    <string name="image_view14">image_view14</string>
+    <string name="image_view15">image_view15</string>
+    <string name="image_view16">image_view16</string>
+    <string name="image_view19">image_view19</string>
+    <string name="image_view18">image_view18</string>
+    <string name="image_view17">image_view17</string>
+
+</resources>
